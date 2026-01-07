@@ -285,7 +285,7 @@
         "gridColor": 16777215,
         "gridAlpha": 0.3,
         "snap": false,
-        "zoomFactor": 1.7400465719715987,
+        "zoomFactor": 0.2226236515367582,
         "windowMask": false,
         "selectedLayer": ""
       },
@@ -733,8 +733,8 @@
           "name": "player",
           "persistentUuid": "fe4be4b6-fe8f-409f-9c5e-f63adb4e3628",
           "width": 0,
-          "x": -886,
-          "y": 240,
+          "x": 250,
+          "y": 1525,
           "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
@@ -2325,6 +2325,33 @@
                     "id"
                   ]
                 }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Angle"
+              },
+              "parameters": [
+                "wheel",
+                "=",
+                "360"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetAngle"
+              },
+              "parameters": [
+                "wheel",
+                "=",
+                "0"
               ]
             }
           ]
