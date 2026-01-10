@@ -25,3 +25,5 @@ TBD:
 - Construction cranes
 - Spikes
 - Signal towers
+- Oil rigs
+- Something else (?)
