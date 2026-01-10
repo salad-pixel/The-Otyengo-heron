@@ -29,6 +29,7 @@ TBD:
 - Oil rigs
 - Actual bird residents
 - Flame Pillar
+- Teleporters
 - Water/Green Water
 - Metro system
 - Crusher
