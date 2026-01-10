@@ -17,6 +17,7 @@ Finished:
 
 WIP:
 - Jungle tileset
+- Full map
 
 TBD:
 - Stone tablets & artwork
@@ -26,4 +27,9 @@ TBD:
 - Spikes
 - Signal towers
 - Oil rigs
-- Something else (?)
+- Actual bird residents
+- Flame Pillar
+- Water/Green Water
+- Metro system
+- Crusher
+- Bonfires (save points)
