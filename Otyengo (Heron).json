@@ -533,7 +533,7 @@
         "gridColor": 16777215,
         "gridAlpha": 0.3,
         "snap": false,
-        "zoomFactor": 2.1231428610441894,
+        "zoomFactor": 0.3784602076124928,
         "windowMask": false,
         "selectedLayer": ""
       },
@@ -1318,7 +1318,7 @@
             "rowCount": 8,
             "columnCount": 8,
             "tileSize": 8,
-            "tilesWithHitBox": "0,1,12,11,8,2,10"
+            "tilesWithHitBox": "0,1,12,11,8,2,10,16,24,32"
           }
         },
         {
