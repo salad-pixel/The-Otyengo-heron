@@ -33,4 +33,4 @@ TBD:
 - Water/Green Water
 - Metro system
 - Crusher
-- Bonfires (save points)
+- Bossfights
